@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Yishu @ysue1933. 
-- 👀 I’m interested in the intersection of linguistics and data.
+- 👀 I’m interested in playing with data!
 - 🌱 I’m currently a M.A. candidate in Quantitative Methods in the Social Sciences at the Columbia University Graduate School of Arts and Sciences.
-- 💞️ I’m looking to collaborate on research in applied linguistics and computational linguistics.
 - 📫 How to reach me ysue1933@gmail.com
 
 <!---
